@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- FitLens mark: the header logo (scan frame + lens) on the ink tile -->
+  <rect width="32" height="32" rx="8" fill="#1d1c19"/>
+  <g transform="translate(4 4)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
+    <path stroke="#f7f3ea" d="M3 7V5a2 2 0 0 1 2-2h2M17 3h2a2 2 0 0 1 2 2v2M21 17v2a2 2 0 0 1-2 2h-2M7 21H5a2 2 0 0 1-2-2v-2"/>
+    <circle cx="11" cy="11" r="4" stroke="#ffe36e"/>
+    <path stroke="#ffe36e" d="m16.5 16.5-2.6-2.6"/>
+  </g>
+</svg>
