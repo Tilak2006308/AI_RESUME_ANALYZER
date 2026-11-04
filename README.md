@@ -169,4 +169,4 @@ docs/           technical guide and screenshots
 **DHULI TILAK** — B.Tech, Computer Science and Engineering (AI & ML), Aditya University
 · [GitHub](https://github.com/Tilak2006308)
 
-Built as an academic project with G. Vardhan Sai, R. Naveen, and D. Pardhu, guided by Mr. G. Siva Shankar.
+Built as an academic project with G. Vardhan Sai, R. Naveen, and D. Pardhu guided by Mr. G. Siva Shankar.
